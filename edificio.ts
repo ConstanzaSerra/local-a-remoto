@@ -93,5 +93,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("Cambio desde git hub para hacer pruebas")
 }
 main();
